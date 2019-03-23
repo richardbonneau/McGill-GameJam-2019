@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Triggerer
+  - Grass
+  - Stone
+  - AlligatorTriggerzone
+  - Alligator
+  - CameraTriggerZone
+  - UI_FindHints
+  - UI_AlligatorPictures
+  - UI_NestPicture
+  - Hint
+  - Nest
+  - UI_Escape
+  - Exit
+  - UI_FadeToBlack
+  - UI_GameOver
+  - UI_RestartMenu
+  - UI_YouWinMenu
+  - FirstGrowl
+  - GameManager
+  - PatrolPoint
+  - PatrolPointB
+  - PatrolPointA
+  - PatrolPointC
+  - PatrolPointD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - MovableObject
+  - Ragdoll
+  - RemotePlayer
+  - IgnoreBullets
+  - Enemy
+  - Pickup
+  - Trigger
+  - MovingPlatform
+  - Debris
+  - LocalPlayer
+  - Weapon
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
